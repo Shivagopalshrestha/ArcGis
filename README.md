@@ -34,3 +34,6 @@ The input required is a point file and the output is heatmap which contains the 
 
 
 
+## License
+
+[MIT License](LICENSE)
