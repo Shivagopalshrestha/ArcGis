@@ -1,0 +1,21 @@
+﻿X,Y,OBJECTID,FACNAME,ADDRESS,TOWN,URL,ERFACILITY,ZIPCODE,HospID,System
+-71.306291890737867,41.497147602014529,1,Newport Hospital,11 Friendship Street,Newport,http://www.newporthospital.org/service-directory/newport-hospital,Yes,02840,1,LifeSpan
+-71.762162208538811,41.997182723235376,2,Zambarano Memorial Hospital,2056 Wallum Lake Road,Burrillville,http://www.bhddh.ri.gov/esh/zam.php, ,02830,2,Eleanor Slater Unified Hospital System
+-71.376143219980136,41.870100462239883,3,Memorial Hospital of Rhode Island,111 Brewster Street,Pawtucket,http://www.mhri.org/,Yes,02860,3,Private
+-71.496867972980255,41.430953458230626,4,South County Hospital,100 Kenyon Ave,Wakefield,http://www.schospital.com/,Yes,02879,4,Private
+-71.825275350581833,41.362609591611104,5,The Westerly Hospital,25 Wells Street,Westerly,http://www.westerlyhospital.org/,Yes,02891,6,Private
+-71.496017804500596,42.004652266637009,6,Landmark Medical Center,115 Cass Ave,Woonsocket,http://www.landmarkmedical.org/,Yes,02895,7,Private
+-71.412094324123117,41.810721114671473,7,Women and Infants Hospital of Rhode Island,101 Dudley Street,Providence,http://www.womenandinfants.org/,Yes,02905,8,Care New England
+-71.398494793346501,41.851635900708999,8,The Miriam Hospital,164 Summit Ave,Providence,http://www.miriamhospital.org/service-directory/the-miriam-hospital,Yes,02906,9,LifeSpan
+-71.463225250350547,41.744713677302443,9,Eleanor Slater Hospital,3 Regan Court,Cranston,http://www.bhddh.ri.gov/esh/index.php, ,02920,10,Eleanor Slater Unified Hospital System
+-71.40900882134801,41.811744240319307,10,Rhode Island Hospital,593 Eddy Street,Providence,http://www.rhodeislandhospital.org/rhode-island-hospital-services,Yes,02903,11,LifeSpan
+-71.432926312621547,41.832227070720265,11,Providence VA Medical Center,830 Chalkstone Ave,Providence,http://www.providence.va.gov/,Yes,02908,12,Federal
+-71.367384991698358,41.792536377886144,12,Emma Pendleton Bradley Hospital,1011 Veterans Memorial Pkwy,East Providence,http://www.bradleyhospital.org/service-directory/bradley-hospital, ,02915,14,LifeSpan
+-71.42076317963604,41.806710892230207,13,Saint Joseph Health Services of Rhode Island,21 Peace Street,Providence,http://www.saintjosephri.com/,Yes,02907,16,Chartercare
+-71.380806185547442,41.842634558632952,14,Butler Hospital,345 Blackstone Blvd,Providence,http://www.butler.org/, ,02906,17,Care New England
+-71.408514792989109,41.811392269872663,15,Hasbro Childrens Hospital,593 Eddy Street,Providence,http://www.rhodeislandhospital.org/rhode-island-hospital-services,Yes,02903,18,LifeSpan
+-71.321055044264611,41.504473001863694,16,"Naval Health Clinic New England, Newport",43 Smith Road,Newport,http://nhcne.med.navy.mil/locations/npri/npri.asp, ,02841,19,Federal
+-71.512708998223928,41.981353605883221,17,Rehabilitation Hospital of RI,116 Eddie Dowling Highway,North Smithfield,http://www.rhri.net/home.aspx, ,02896,20,Private
+-71.478913760084438,41.705341773990938,18,Kent Hospital,455 Toll Gate Road,Warwick,http://www.kentri.org/,Yes,02886,5,Care New England
+-71.459112667571205,41.855361735622424,19,Our Lady of Fatima Hospital,200 High Service Avenue,North Providence,http://www.fatimahospital.com/,Yes,02904,15,Chartercare
+-71.434292086511263,41.834772849456485,20,Roger Williams Medical Center,825 Chalkstone Ave,Providence,http://www.rwmc.org/,Yes,02908,13,Chartercare
