@@ -5,24 +5,13 @@
 
 ![Banner Image](banner.png)
 
- 
+
+
+
 
 | **`Documentation`** |
 |-----------------|
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
 
+There are 3 tools inside this toolbox. Each of these have specific functions in ArcGis.
 
-
-```
-pip install tensorflow
-```
-
-Use the GPU package for CUDA-enabled GPU cards:
-
-```
-pip install tensorflow-gpu
-```
-
-*See [Installing TensorFlow](https://www.tensorflow.org/install) for detailed
-instructions, and how to build from source.*
 
