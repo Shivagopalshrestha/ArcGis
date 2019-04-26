@@ -6,11 +6,13 @@ This has been prepared for the part of the course. If you want to dive in deep i
 here is a helpful [link](https://pro.arcgis.com/en/pro-app/)
 
 
-
-| **`Documentation`** |
-|-----------------|
-
 There are 3 tools inside this toolbox. Each of these have specific functions in ArcGis.
+| __Find Near Point__ | __Shape2Heatmap__ | _NDVI_Calculator_ |
+|-------------|------------|------------|
+| uses Csv files         | uses point Shapefile    | uses Landsat data     |
+ 
+
+
 
 ## 1.Find Near Points
 This tool can be used to find the near points between a list of two points with their locations in  csv files.
